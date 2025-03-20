@@ -2,7 +2,7 @@
 ## Objective
 To develop a predictive model using historical IPL match data that estimates the final team score based on factors like current runs, wickets, overs, runs in the last 5 overs, etc., thereby enabling data-driven sports analysis and decision-making.
 
-## Dataset
+## Dataset Used
 - <a href= "https://github.com/Tejasssss06/IPL-Score-Predictor-using-Machine-Learning/blob/main/IPL_Data.csv">Dataset</a>
 
 ## IPL Score Predictor Using ML
